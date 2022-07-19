@@ -38,9 +38,9 @@ Get it [here](https://ankiweb.net/shared/info/35413279) from AnkiWeb.
 ### Back
 ```html
 {{FrontSide}}
-</br>
+<br>
 <hr id=answer>
-</br>
+<br>
 {{Sound Example}}
 ```
 
