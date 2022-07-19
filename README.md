@@ -2,6 +2,8 @@
 
 **All 40 drum rudiments** with the corresponding **music notation** (SVG) and **sound examples** (OGG).
 
+This deck is **not intended for memorization but for practice**. Practice the rudiments as they come up in Anki and rate the difficulty with the answer buttons. Tweak the deck options to fit your practice routine.
+
 Each hand corresponds to one side of the staff line (above and below, respectively). Stickings with the hands switched are shown where needed.
 All time signatures are 4/4 unless stated otherwise. 
 Sound examples are played on a clave at 60bpm.
@@ -11,6 +13,9 @@ The notation is modeled after [drumeo](https://www.drumeo.com/beat/rudiments/), 
 Notation and sound were done in [Musescore](https://musescore.org/en).
 
 Both light and dark theme are supported.
+
+## Install
+Get it [here](https://ankiweb.net/shared/info/35413279) from AnkiWeb.
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/31477160/179700959-ba7deb23-f81f-4c95-9dea-89e17b909a9c.png)
@@ -56,4 +61,4 @@ Both light and dark theme are supported.
 
 # Issues
 
-I created this deck for myself so I'm in no way an expert. Please report errors, bugs, suggestions, and other concerns as [issues](https://github.com/Munzu/anki_drum_rudiments/issues) to this GitHub repository.
+I created this deck for myself so I'm in no way an expert. Please report errors, bugs, suggestions, and other concerns as [issues](https://github.com/Munzu/anki_drum_rudiments/issues) on this GitHub repository.
